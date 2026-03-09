@@ -1,4 +1,4 @@
-# Simulation-of-phishing-attack-
+# Simulation-of-phishing-attack
 This project is a specialized web application developed as part of a Bachelor’s thesis to analyze the psychological and technical aspects of phishing attacks. Unlike standard simulation tools, this platform focuses on the Human-in-the-Loop vulnerability by measuring user response times and cognitive processing under pressure.
 
 Core Components & Functionalities:
